@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style type="text/css">
+.all heading {
+text-align:center;
+font-weight:bold;
+  }
+  </style>
+  div class="all heading">
+   <h1>"Hello world. Aren't you the best?"</h1>
+   <h2>"I'd say you are. You're one lucky duck.</h2>
+   </div>
+        
+ 
+    </script>
+  </head>
+  <body>
+    
+  </body>
+</html>
