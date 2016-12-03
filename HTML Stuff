@@ -6,14 +6,21 @@
 text-align:center;
 font-weight:bold;
   }
+  .startOfParagraphs {
+  text-align:center;
+  font-weight:bold;
+  color:white;
+  }
   </style>
   div class="all heading">
    <h1>"Hello world. Aren't you the best?"</h1>
    <h2>"I'd say you are. You're one lucky duck.</h2>
    </div>
         
- 
-    </script>
+<div class="startOfParagraphs">
+<p>This is a paragraph. This is how some people communicate. With words."</P>
+<p>These are now a matched pair of paragraphs. Congratulations, buddy. I'm so proud of you.</p>
+</div>
   </head>
   <body>
     
